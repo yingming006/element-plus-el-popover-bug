@@ -1,5 +1,7 @@
 # app
 
+![](./bug.gif)
+
 ## Project setup
 ```
 npm install
